@@ -22,3 +22,7 @@ It's one HTML file with no build step. Open `index.html` in a browser (three.js 
 Click to begin. **R** replay, **Space** pause, **M** sound, **T** timer, **D** the lab (orbit camera, tuning panel).
 
 It's heavy: 19,400 physics bodies and a film-style render, so a recent laptop or desktop works best.
+
+---
+
+Imported from [Sam1983Aing/domino-show](https://github.com/Sam1983Aing/domino-show) — original code and attribution preserved.
